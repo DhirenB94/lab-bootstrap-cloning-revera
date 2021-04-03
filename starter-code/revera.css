@@ -1,0 +1,132 @@
+.navbar-brand{
+    font-size: 30px;
+    padding-left: 150px
+}
+.navbar-nav{
+    padding-left: 280px;
+    font-size: 14px;
+}
+
+
+
+
+#carouselExampleCaptions {
+    height: 600px;
+    background-image: url('../starter-code/img/slider-1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.d-block {
+    height: 600px;
+}
+.col-md-12{
+    padding: 0px;
+}
+.carousel-control-prev-icon{
+    background-color: #f4473a;
+    height: 100px;
+    width: 50px;
+}
+.carousel-control-next-icon {
+    background-color: #f4473a;
+    height: 100px;
+    width: 50px;
+}
+.carousel-caption{
+    padding-bottom: 150px;
+}
+.carousel-indicators{
+    padding-bottom: 100px;
+}
+
+
+
+
+#red-container {
+    height: 300px;
+    background-color: #ed564b;
+}
+.red-table{
+    padding-left: 195px;
+    padding-right: 195px;
+    padding-top: 50px;
+    text-align: center;
+    color: white;
+}
+.red-table h3{
+    margin-top: 20px;
+}
+
+
+
+
+.container {
+    width: 75%; 
+}
+
+#main-projects {
+    height: 300px;
+    text-align: center;
+}
+.heading{
+    padding-top: 50px;
+}
+
+.latest-projects-images {
+    height: 180px;
+    width: 260px;
+}
+
+
+
+
+#main-articles {
+    height: 500px;
+    text-align: left;
+}
+.latest-articles-images{
+    height: 180px;
+    width: 260px;
+}
+.article-text{
+    font-size: smaller;
+}
+
+
+
+
+#revera-table {
+    height: 320px;
+    border-top: solid red 5px;
+    background-color: #3b3b3b;;
+    
+}
+.revera-meta {
+    height: 320px;
+    padding-left: 195px;
+    padding-right: 195px;
+}
+#extra-info {
+    height: 320px;
+    color: #aaa;
+    font-size: 12px;
+}
+#extra-info h6{
+    margin-top: 40px;
+    margin-bottom: 25px;
+}
+
+
+
+
+.copyright {
+    background-color: #292929;
+    font-size: 10px;
+    color: white
+}
+#copyright-content {
+    padding-left: 190px;
+    padding-top: 20px;
+}
+
